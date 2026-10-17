@@ -1,3 +1,5 @@
+> **本仓库已合并至 [agent-skills](https://github.com/VINK77aaaa/agent-skills)** — 统一入口，clone 一次即可装全部技能。本仓库仅作历史留存，不再更新。
+
 # amap-maps-mcp
 高德地图（Amap Maps）MCP 调用技能：POI 搜索/地理编码/路线规划/天气查询等 16 个标准工具
 
